@@ -3,8 +3,7 @@ Deployed Website: https://rian-ismael.github.io/TinDog/
 
 Style made famous by Tinder.
 
-License
-License
+##License
 
 This project is licensed under the MIT License.
 
