@@ -5,6 +5,8 @@ Style made famous by Tinder.
 
 <h2>License</h2>
 
+![licenseMIT](https://user-images.githubusercontent.com/106334437/224399544-6a96348e-d4f4-44c3-991d-9b70612ca77f.svg)
+
 This project is licensed under the MIT License.
 
 Copyright (c) 2023 Rian Ismael
